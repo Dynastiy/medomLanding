@@ -1,0 +1,11 @@
+@media screen and (max-width: 992px) {
+    .topText {
+        margin: 0 !important;
+        padding: 1rem !important;
+    }
+    .topMainArea .searchBar .form-control {
+      
+    width: 15rem;
+    }
+  }
+  

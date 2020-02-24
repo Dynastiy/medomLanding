@@ -1,0 +1,135 @@
+body {
+    font-family: 'Montserrat', serif;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.topNav {
+    background-color:  #00C3FF;
+    color: #fff !important;
+    box-shadow: 5px 4px 2.5px rgba(0, 0, 0, 0.25);  
+}
+.topNav .nav-link {
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: bold;
+    /* margin-right: 10px !important; */
+}
+.topNav .btn {
+    background: #fff;
+    font-weight: bold;
+    color: #00C3FF;
+    border-radius: 2.3rem;
+    font-size: 0.8rem
+}
+.topMainArea {
+    background: url('/img/Rectangle\ 53.svg');
+    /* background-image: url("path/to/image.j?pg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* border: 2px dashed #333; */
+    
+}
+.topText {
+    margin-top: 12rem;
+    margin-bottom: 10rem;
+    margin-left: 8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.headSection .row {
+    margin-right: 0 !important;
+}
+.topMainArea .searchBar {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 2.3rem;
+}
+.topMainArea .searchBar .form-control {
+    border: #fff;
+    font-size: 0.7rem;
+    width: 20rem;
+    border-radius: 2.3rem;
+}
+.topMainArea .searchBar .btn {
+    color: #fff;
+    background: #00C3FF;
+    border-radius: 2.3rem;
+    font-size: 0.7rem;
+}
+.services, .consultants, .join, .footer {
+    background: #001;
+    padding: 1rem;
+}
+.servicesEdited {
+    margin-top: 3rem;
+    margin-top: 3rem;
+}
+.fixAppoint {
+    background-image: url('/img/bg.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fixAppoint .form {
+    background: #404040;
+}
+.fixAppoint .row0 {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.mbSpace, .mbSpace1 {
+    margin-bottom: 2rem !important;
+}
+.mbSpace1 {
+    margin-top: 2rem;
+}
+#exampleFormControlInput1, #exampleFormControlTextarea1 {
+    font-size: 0.7rem !important;
+    padding: 1.4rem;
+    border: 0.05rem solid #fff;
+    background: none;
+    color: #fff !important;
+}
+.fixAppoint .btn {
+    display: block;
+    color: #fff;
+    background: #00C3FF;
+    border-radius: 2.3rem;
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    margin: 0 auto;
+    margin-bottom: 1.5rem !important;
+}
+.join .searchBar {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 2.3rem;
+}
+.join .searchBar .btn {
+    color: #fff;
+    background: #001;
+    border-radius: 2.3rem;
+    font-size: 0.7rem;
+    padding: 1rem;
+}
+.join .searchBar .form-control {
+    border: #fff;
+    font-size: 0.7rem;
+    width: 20rem;
+    border-radius: 2.3rem;
+}
+.blog {
+    background: #404040;
+}
+.otherColor {
+    color: #00c3ff;
+}
+.copyright .navbar-brand {
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
